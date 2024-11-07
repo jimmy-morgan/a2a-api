@@ -2,8 +2,7 @@
 
 Thank you for the opportunity to create this coding challenge API which provides the following functionality:
 
-> Pretend you are assisting a movie research company in analyzing trends in the industry. The company wants to better understand box office performance. Your assignment is to write some code to gather the information they need.![image](https://github.com/user-attachments/assets/701eacc4-a269-41ec-abfd-4009667735fe)
-
+> Pretend you are assisting a movie research company in analyzing trends in the industry. The company wants to better understand box office performance. Your assignment is to write some code to gather the information they need.
 
 ## Setting up your environment
 
