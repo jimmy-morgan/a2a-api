@@ -6,7 +6,7 @@ Thank you for the opportunity to create this coding challenge API which provides
 
 ## Setting up your environment
 
-The API was built using Laravel 8 running locally on Mac OSX, Apache 2 and PHP 8.
+The API was built using Laravel 8 running locally on Mac OSX, Apache 2 and PHP 8.  It includes basic CRUD testing using PHPUnit.
 
 1. Make sure composer is installed and run `composer install` in the project folder.
 2. Create mysql database and call it a2a.
