@@ -24,5 +24,5 @@ Import the following environment and collection files into postman.
 
 Edit the environment to ensure the url matches your local configuration. All endpoints except Login requires authentication.  Login using the email from the user that was created when you seed the users table with password Testing123#.  Upon login, the `sid` will be created an used throughout the api automatically.
 
-> API documentation: https://documenter.getpostman.com/view/696592/Uz5NiD3M
+> API documentation: [https://documenter.getpostman.com/view/696592/Uz5NiD3M](https://documenter.getpostman.com/view/696592/2sAY545dxb)
 
